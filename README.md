@@ -1,2 +1,2 @@
 # RaceGame1.0
-Car Racing Game Stage 1.0
+Race Game Stage 1.0
